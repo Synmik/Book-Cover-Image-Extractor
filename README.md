@@ -24,7 +24,7 @@ The application supports drag-and-drop functionality for easy file selection and
 ## Usage
 1. Run the application:
    ```
-   python pdf_image_extractor.py
+   python book_image_extractor.py
    ```
 
 2. Select a PDF or EPUB file using the "Select File" button or drag and drop it into the application window.
